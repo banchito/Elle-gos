@@ -1,0 +1,38 @@
+{
+  "name": "Ellegoes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xs_and_os.js",
+  "scripts": {
+    "Elle:osandxs": "nodemon ./Elle-gos/xs_and_os.js",
+    "Elle:shortestword": "nodemon ./Elle-gos/shortest_word.js",
+    "Elle:likes": "nodemon ./Elle-gos/likes.js",
+    "Elle:reverseString": "nodemon ./Elle-gos/reverse_string.js",
+    "Elle:findEvenOdd": "nodemon ./Elle-gos/find_outlier.js",
+    "Elle:pairSum": "nodemon ./Elle-gos/pair_sum.js",
+    "Elle:pigLatin": "nodemon ./Elle-gos/pig_latin.js",
+    "Elle:moveZeros": "nodemon ./Elle-gos/move_zeros_concat.js",
+    "Elle:fibonacci": "nodemon ./Elle-gos/find_fibonacci_num.js",
+    "Elle:sumArrayRecursion": "nodemon ./Elle-gos/recursion_sum_array.js" ,
+    "Elle:recursionPalindrome": "nodemon ./Elle-gos/recursion_palindrome.js",
+    "Elle:magicNum": "nodemon ./Elle-gos/recursion_magicNumber.js",
+    "Elle:wordOcurrences": "nodemon ./Elle-gos/word_ocurrences.js",
+    "Elle:strstr": "nodemon ./Elle-gos/strstr.js",
+    "Elle:spinWords": "nodemon ./Elle-gos/spinWords.js",
+    "Elle:makingCakes": "nodemon ./Elle-gos/makingCakes.js",
+    "Elle:dictionary": "nodemon ./Elle-gos/dictionary.js",
+    "Elle:reverseWord": "nodemon ./Elle-gos/reverse_word.js",
+    "Elle:mergeArrays": "nodemon ./Elle-gos/merge_arrays.js",
+    "Elle:targetSum": "nodemon ./Elle-gos/array_target_sum.js",
+    "Elle:grades": "nodemon ./Elle-gos/fullstack_grades.js",
+    "Elle:permupali": "nodemon ./Elle-gos/permu_palindrome.js",
+    "Elle:casino": "nodemon ./Elle-gos/casino_shuffle.js",
+    "Elle:objectFactory":"nodemon ./Elle-gos/object_factory.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
