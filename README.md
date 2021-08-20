@@ -31,4 +31,4 @@ In the project directory, you can run:
 ### `npm run Elle:objectFactory`
 
 
-## Shout out to [Elle Oshiro](https://www.linkedin.com/in/elle-oshiro/) for this amazing Elle-gos.
+## Shout out to [Elle Oshiro](https://www.linkedin.com/in/elle-oshiro/) for these amazing Elle-gos.
